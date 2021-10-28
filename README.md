@@ -1,4 +1,4 @@
-This file provides information about running the code to reproduce the results mentioned in the paper. Details of the sub-directories are mentioned below
+This file provides information about running the code to reproduce the results mentioned in the smi-supervised learning with covariate shift paper (Under Review). Details of the sub-directories are mentioned below
 
 - docs: contains the requirements.txt file needed to install all the libraries/packages required to execute the code.
 
